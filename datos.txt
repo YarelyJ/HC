@@ -1,0 +1,3 @@
+Animal: yur	 Edad: 3	 Especie: ave
+Cria: ye	 Edad: 1	 Especie: ave	 Madre: yur
+Vacuna: vih	 Fecha de aplicación: 12-30-23
